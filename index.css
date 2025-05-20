@@ -628,13 +628,13 @@ footer {
   }
 
   /* ⬇ hero stack & shrink */
-  .hero>.web-my-img{height:auto;}
-  .hero>.web-my-img>img{width:70vw;height:auto;}
+  .hero>.web-my-img{height:auto}
+  .hero>.web-my-img>img{width:70vw;height:350px}
 
   .hero>.web-info1{
     width:80vw;
     font-size:1.8rem;
-    line-height:2.6rem;
+    line-height:2.1rem;
   }
 
   /* ⬇ hero-2 tagline centre & no skew */
@@ -643,7 +643,7 @@ footer {
     position:static;
     transform:none;
     text-align:center;
-    font-size:3rem;
+    font-size:2rem;
   }
 
   /* ⬇ about section column */
